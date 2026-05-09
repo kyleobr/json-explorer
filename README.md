@@ -1,2 +1,1 @@
-# json-explorer
-Terminal JSON viewer with syntax highlighting
+# json-explorer\n\nTerminal JSON viewer with syntax highlighting and path navigation.\n\n## Usage\n```bash\npython -m json_explorer data.json '$.users[0]'\n```\n\n## License\nMIT\n
